@@ -1,7 +1,7 @@
 # AppStireCopyDesctoNewVersionScript
 For app store API: Copies "Promo description" and "Update Description" from "READY FOR SALE" version to "PREPARE FOR SUBMISSION" version for all locales for all apps
 
-This takes any apps that are in a "PREPARE FOR SUBMISSION" state and copies all locale descriptions for PROMO and UPDATE which are blank by default, and replaces them with the READY FOR SLAE version of these fields.   Suggest you update them after copying them, but this is a start without a lot of copy and pasting.  Also, if you have a lot of translations, this makes life easier if you don't normally ranslate the update or promo text for each language, for example, but they have to be filled in.
+This takes any apps that are in a "PREPARE FOR SUBMISSION" state and copies all locale descriptions for PROMO and UPDATE which are blank by default, and replaces them with the READY FOR SALE version of these fields.   Suggest you update them after copying them, but this is a start without a lot of copy and pasting.  Also, if you have a lot of translations, this makes life easier if you don't normally ranslate the update or promo text for each language, for example, but they have to be filled in.
 ---
 
 Insert your:
